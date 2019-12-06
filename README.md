@@ -13,4 +13,4 @@ This continues until the human ages repeat which prompts the counter at the bott
 Implementation: Used an array to cycle through the different human ages.
 Implemented a nested if statement for the counter-logic.
 
-![screenshot](https://imgur.com/a/Cos4Se8)
+![screenshot](https://i.imgur.com/9t9OG9o.png)
